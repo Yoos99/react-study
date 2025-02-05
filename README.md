@@ -28,7 +28,7 @@
 
 ## 🛠 스터디 준비물
 
-- **학습 도서/자료**: [모던 리액트 Deep Dive](https://react.dev/) 또는 관련 문서, 강의
+- **학습 도서/자료**: [모던 리액트 Deep Dive](https://wikibook.co.kr/react-deep-dive/) 또는 관련 문서, 강의
 - **커뮤니케이션 도구**: 카카오톡, Discord로 소통하기
 - **GitHub 계정**: 학습 내용을 공유하기 위해 필요!!
 
